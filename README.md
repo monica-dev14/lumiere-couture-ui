@@ -20,4 +20,4 @@ A premium, edge-to-edge e-commerce UI crafted with **React** and **Tailwind CSS*
 3. Start project: `npm run dev`
 
 ## 🔗 Live Demo
-[Click here to view the Live Website](YOUR_VERCEL_LINK_HERE)
+[Click here to view the Live Website](lumiere-couture-ui.vercel.app)
